@@ -1,5 +1,5 @@
-"Sand-dust image enhancement using chromatic variance consistency and gamma correction-based dehazing," Sensors
-[Jong Ju Jeon](triplej@pusan.ac.kr), [Tae-Hee Park](thpark77@tu.ac.kr), [Il Kyu Eom*](ikeom@pusan.ac.kr)(https://sites.google.com/view/ispl-pnu)
+"Sand-dust image enhancement using chromatic variance consistency and gamma correction-based dehazing," Sensors   
+[Jong Ju Jeon](https://github.com/TripleJ2543)(triplej@pusan.ac.kr), Tae-Hee Park(thpark77@tu.ac.kr), Il Kyu Eom*(ikeom@pusan.ac.kr)(https://sites.google.com/view/ispl-pnu)   
 
 [Paper](https://doi.org/10.3390/s22239048)
 
@@ -24,12 +24,12 @@ python Run_Sand-dust_Enhancement.py
 ```
 
 ### Citation ###
-Jong Ju Jeon, Tae-Hee Park, Il Kyu Eom,
-Sand-dust image enhancement using chromatic variance consistency and gamma correction-based dehazing,
-Sensors,
-2022,
-https://doi.org/10.3390/s22239048.
-(https://www.mdpi.com/1424-8220/22/23/9048)
-Keywords: sand-dust image enhancement; chromatic variance consistency; dehazing; gamma correction; cross-correlation; color correction
+Jong Ju Jeon, Tae-Hee Park, Il Kyu Eom,   
+Sand-dust image enhancement using chromatic variance consistency and gamma correction-based dehazing,   
+Sensors,   
+2022,   
+https://doi.org/10.3390/s22239048.   
+(https://www.mdpi.com/1424-8220/22/23/9048)   
+Keywords: sand-dust image enhancement; chromatic variance consistency; dehazing; gamma correction; cross-correlation; color correction   
 
  
