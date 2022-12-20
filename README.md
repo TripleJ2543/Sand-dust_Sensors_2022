@@ -1,7 +1,7 @@
-"Sand-dust image enhancement using chromatic variance consistency and gamma correction-based dehazing," Sensors   
+"[Sand-dust image enhancement using chromatic variance consistency and gamma correction-based dehazing](https://doi.org/10.3390/s22239048)," Sensors   
 [Jong Ju Jeon](https://github.com/TripleJ2543)(triplej@pusan.ac.kr), Tae-Hee Park(thpark77@tu.ac.kr), Il Kyu Eom*(ikeom@pusan.ac.kr)(https://sites.google.com/view/ispl-pnu)   
 
-[Paper](https://doi.org/10.3390/s22239048)
+[Site](https://sites.google.com/view/ispl-pnu), [Paper](https://doi.org/10.3390/s22239048)
 
 
 ### Requirements ###
